@@ -10,6 +10,5 @@ This is a list of cars
 3. Tata
 
 This is a todo list
-1. Twitter
-2. LinkedIn
-3. Notion
+1. LinkedIn
+2. Notion
