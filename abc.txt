@@ -1,0 +1,14 @@
+This is a list of fruits
+1. Apple
+2. Banana
+3. Guava
+4. Mango
+
+This is a list of cars
+1. Seltos
+2. Audi
+3. Tata
+
+This is a todo list
+1. Twitter
+2. LinkedIn
