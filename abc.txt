@@ -15,3 +15,5 @@ This is a todo list
 3. Sub
 4. Merged successfully
 5. Added to GitHub
+6. Deleted online branch
+
